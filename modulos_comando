@@ -1,0 +1,3 @@
+/etc/shilda/modulos/comando/seguridad/modulo_seguridad.sh:on
+/etc/shilda/modulos/comando/sesiones/modulo_csesiones.sh:on
+/etc/shilda/modulos/comando/auditoria/modulo_auditoria.sh:on

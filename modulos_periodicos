@@ -1,0 +1,3 @@
+/etc/shilda/modulos/periodicos/limitaciones/modulo_limitaciones.sh:off
+/etc/shilda/modulos/periodicos/trafico/modulo_trafico.sh:off
+/etc/shilda/modulos/periodicos/carga/modulo_carga.sh:off
